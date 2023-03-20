@@ -9,7 +9,7 @@
 
 * Início :  <b>00/00/0000</b> - Finalizado : <b>00/00/000 </b>
 * Curso : <b>Método .Net Direto ao Ponto</b>
-* Professor : <b>LuisDev</b>
+* Instituição : <b>LuisDev</b>
 * Link do Curso : [Método .Net Direto ao Ponto](https://www.luisdev.com.br/cursos-e-mentorias/)
 
 ## Linguagem & Ferramentas Utilizadas: 
