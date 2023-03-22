@@ -7,7 +7,7 @@
 ## Dados do Curso
 ![Badge em Status](https://img.shields.io/badge/STATUS-PENDENTE-red?style=for-the-badge)
 
-* Início :  <b>00/00/0000</b> - Finalizado : <b>00/00/000 </b>
+* Início :  <b>21/03/2023</b> - Finalizado : <b>00/00/000 </b>
 * Curso : <b>Método .Net Direto ao Ponto</b>
 * Instituição : <b>LuisDev</b>
 * Link do Curso : [Método .Net Direto ao Ponto](https://www.luisdev.com.br/cursos-e-mentorias/)
@@ -21,16 +21,16 @@
 
 
 ## Ementa
-* 📁- Módulo 01 - Apresentação
-* 📁- Módulo 02 - Projeto a ser desenvolvido
-* 📁- Módulo 03 - Desenvolvimento de API's com ASP.Net Core
-* 📁- Módulo 04 - Arquitetura Limpa
-* 📁- Módulo 05 - Persitência com Entity Framework Core
-* 📁- Módulo 06 - Command Query Responsability Segregation(CQRS)
-* 📁- Módulo 07 - Padrão Repository
-* 📁- Módulo 08 - Validação de API's
-* 📁- Módulo 09 - Autenticação e Autorização com JWT
-* 📁- Módulo 10 - Testes Unitários com xUnit
-* 📁- Módulo 11 - Azure DevOps
-* 📁- Módulo 12 - Microserviços e Mensageria 
-* 📁- Módulo 13 - Carreira .Net
+* ✅ - 📁- Módulo 01 - Apresentação
+* ✅ - 📁- Módulo 02 - Projeto a ser desenvolvido
+* ⏸ - 📁- Módulo 03 - Desenvolvimento de API's com ASP.Net Core
+* 🔳 - 📁- Módulo 04 - Arquitetura Limpa
+* 🔳 - 📁- Módulo 05 - Persitência com Entity Framework Core
+* 🔳 - 📁- Módulo 06 - Command Query Responsability Segregation(CQRS)
+* 🔳 - 📁- Módulo 07 - Padrão Repository
+* 🔳 - 📁- Módulo 08 - Validação de API's
+* 🔳 - 📁- Módulo 09 - Autenticação e Autorização com JWT
+* 🔳 - 📁- Módulo 10 - Testes Unitários com xUnit
+* 🔳 - 📁- Módulo 11 - Azure DevOps
+* 🔳 - 📁- Módulo 12 - Microserviços e Mensageria 
+* 🔳 - 📁- Módulo 13 - Carreira .Net
