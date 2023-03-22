@@ -5,7 +5,7 @@
 </div>
 
 ## Dados do Curso
-![Badge em Status](https://img.shields.io/badge/STATUS-PENDENTE-red?style=for-the-badge)
+![Badge em Status](https://img.shields.io/badge/STATUS-INICIADO-green?style=for-the-badge)
 
 * Início :  <b>21/03/2023</b> - Finalizado : <b>00/00/000 </b>
 * Curso : <b>Método .Net Direto ao Ponto</b>
