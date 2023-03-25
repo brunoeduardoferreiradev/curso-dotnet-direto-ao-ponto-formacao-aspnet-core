@@ -9,7 +9,7 @@
 
 * Início :  <b>21/03/2023</b> - Finalizado : <b>00/00/000 </b>
 * Curso : <b>Método .Net Direto ao Ponto</b>
-* Instituição : <b>LuisDev</b>
+* Instituição : <b>LuisDev - Cursos</b>
 * Link do Curso : [Método .Net Direto ao Ponto](https://www.luisdev.com.br/cursos-e-mentorias/)
 
 ## Linguagem & Ferramentas Utilizadas: 
